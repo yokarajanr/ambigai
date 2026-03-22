@@ -171,7 +171,7 @@ Convert manual logbook-based order and payment tracking to a digital app for:
 
 ## 🔑 Supabase Credentials
 
-**Project URL:** `https://zcfoeralaoubjpxkyrry.supabase.co`  
+**Project URL:** `[REDACTED - set via --dart-define]`  
 **Status:** ✅ Connected  
 **Location:** `lib/core/config/app_config.dart`
 

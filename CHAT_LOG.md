@@ -173,7 +173,7 @@ updated_at      : TIMESTAMP (auto)
 
 ## 📌 Important Notes
 
-1. **Supabase URL:** `https://zcfoeralaoubjpxkyrry.supabase.co`
+1. **Supabase URL:** `[REDACTED - set via --dart-define]`
 2. **Owner email:** `ashok@ambigai.com`
 3. **Manager email:** `manager@ambigai.com`
 4. **Factory email:** `factory@ambigai.com`

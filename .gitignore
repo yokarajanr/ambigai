@@ -33,7 +33,7 @@ dist/
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
-/build/
+**/build/
 /coverage/
 
 # Local environment and secrets

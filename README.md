@@ -21,13 +21,6 @@ A comprehensive, desktop-first ERP application built to digitize and streamline 
 * **Charts & Analytics:** FL Chart
 * **Windows Installer:** Inno Setup Compiler
 
-## 📸 Screenshots
-
-*(Add your screenshots here! Example formatting below)*
-* `![Dashboard](link-to-dashboard-image.png)`
-* `![Order Analytics](link-to-analytics-image.png)`
-* `![PDF Generation](link-to-pdf-image.png)`
-
 ## ⚙️ Local Development Setup
 
 ### Prerequisites
